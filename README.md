@@ -7,3 +7,6 @@ At first:
 
 30 minutes later:
 ![after 30 minutes](after30minutes.png)
+<br />
+<br />
+Cre: freeCodeCamp.org
